@@ -8,3 +8,5 @@ Projects I have done for learning and growing with AngularJS.
 - [Angular Todo List](https://github.com/bobbypinard/Angular-Projects/tree/master/ng-todo) - Traversy Media App.
   
 - [Material Demo](https://github.com/bobbypinard/Angular-Projects/tree/master/material-demo) - Simple app that uses Angular Material to create a form.
+
+- [Weather App](https://github.com/bobbypinard/Angular-Projects/tree/master/weather-app) - Weather app made from scratch.
